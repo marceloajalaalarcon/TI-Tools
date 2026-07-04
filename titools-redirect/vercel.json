@@ -1,9 +1,0 @@
-{
-    "redirects": [
-        {
-            "source": "/",
-            "destination": "https://raw.githubusercontent.com/marceloajalaalarcon/TI-Tools/refs/heads/main/launcher.ps1",
-            "permanent": false
-        }
-    ]
-}

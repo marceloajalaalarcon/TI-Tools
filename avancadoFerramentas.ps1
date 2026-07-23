@@ -5,7 +5,7 @@
     Ferramenta completa com 40+ funcoes para equipes de suporte tecnico.
     Interface profissional com box-drawing, dashboard, progress e logging.
 .NOTES
-    Autor : Equipe TI DouraGlass
+    Autor : Marcelo A. Alarcon
     Versao: 6.0
     Data  : 2026-03-12
 #>
